@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anat94
 - 🌱 I’m currently learning C && python
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me anatole.babin@epitech.eu
+- 📫 How to reach me : anatole.babin@epitech.eu
 
 <!---
 Anat94/Anat94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
