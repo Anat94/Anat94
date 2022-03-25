@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anat94
-- 🌱 I’m currently learning C && python
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently learning C && python && javascript
+- 💞️ I’m looking for an traineeship
 - 📫 How to reach me : anatole.babin@epitech.eu
 
 <!---
