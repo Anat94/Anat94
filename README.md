@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anat94
-- 🌱 I’m currently learning C && python && javascript
+- 🌱 I’m currently learning C && C++ && javascript
 - 📫 How to reach me : anatole.babin@epitech.eu
 
 <!---
